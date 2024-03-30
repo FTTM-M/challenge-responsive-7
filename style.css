@@ -2,3 +2,13 @@
   text-align: center;
   background: #f9f7fe;
 }
+p {
+  font-family: "Poppins";
+  font-weight: bold;
+  font-size: 36px;
+}
+h1 {
+  font-family: "Playfair Display", serif;
+  font-weight: bold;
+  font-size: 96px;
+}
